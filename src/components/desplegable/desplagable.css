@@ -1,0 +1,9 @@
+.desplagable {
+  position: absolute;
+  right: 0px;
+  z-index: 2;
+  overflow: hidden;
+}
+.menu {
+  overflow: hidden;
+}
